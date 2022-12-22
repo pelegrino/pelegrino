@@ -1,11 +1,11 @@
-###  Olá! Eu sou o Pelegrino! Um apaixonado por tecnologia...
+<h1 align="center">Olá! Eu sou o Pelegrino! Um apaixonado por tecnologia...</h1>
 <div><a href="https://github.com/pelegrino"><img align="center" alt="capa" width="100%" src="https://idocode.com.br/wp-content/uploads/2020/05/0-destaque-linguagens-de-programacao-2019.jpg.webp"/></div><br/>
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/intelligentia)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pelegrino/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pelegrino)
-
+<div align="center">
+  <a href="https://instagram.com/intelligentia"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/pelegrino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://t.me/pelegrino"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</div><br/>
 
 <div align="center">
   <a href="https://github.com/pelegrino">
@@ -13,8 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelegrino&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-
-## Tecnologias que estou me dedicando...
+<h2 align="center"> Tecnologias que estou me dedicando...</h2>
 
 <div style="display: inline_block" align="center"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>

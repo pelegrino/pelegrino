@@ -24,5 +24,5 @@
  <img align="center" alt="java" src="https://img.shields.io/badge/Java-F01A30?style=for-the-badge&logo=openjdk&logoColor=white"/>
  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1C?style=for-the-badge&logo=postgresql&logoColor=white"/>
  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/pelegrino/pelegrino/blob/output/github-contribution-grid-snake.svg)
 </div><br/>

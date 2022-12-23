@@ -22,6 +22,7 @@
  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img align="center" alt="java" src="https://img.shields.io/badge/Java-F01A30?style=for-the-badge&logo=openjdk&logoColor=white"/>
  <br/>
+ <br/>
  <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-1572B6?style=for-the-badge&logo=kotlin&logoColor=white"/>
  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-F5FFFA?style=for-the-badge&logo=mysql&logoColor=black"/> 	
  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>

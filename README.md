@@ -1,6 +1,8 @@
 <h1 align="center">Olá! Eu sou o Pelegrino! Um apaixonado por tecnologia...</h1>
 <div><a href="https://github.com/pelegrino"><img align="center" alt="capa" width="100%" src="https://idocode.com.br/wp-content/uploads/2020/05/0-destaque-linguagens-de-programacao-2019.jpg.webp"/></div><br/>
 
+  <h2 align="center">Minhas Redes</h2>  
+  
 <div align="center">
   <a href="https://instagram.com/intelligentia"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   <a href="https://www.linkedin.com/in/pelegrino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -21,8 +23,6 @@
  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img align="center" alt="java" src="https://img.shields.io/badge/Java-F01A30?style=for-the-badge&logo=openjdk&logoColor=white"/>
- <br/>
- <br/>
  <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-1572B6?style=for-the-badge&logo=kotlin&logoColor=white"/>
  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-F5FFFA?style=for-the-badge&logo=mysql&logoColor=black"/> 	
  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>

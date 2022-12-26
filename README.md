@@ -28,6 +28,7 @@
  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-DAA520?style=for-the-badge&logo=linux&logoColor=white"/>
  <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-0000CD?style=for-the-badge&logo=eclipse&logoColor=white"/>
+ <img align="center" alt="hibernate" src="https://img.shields.io/badge/Hibernate-808080?style=for-the-badge&logo=hibernate&logoColor=white"/>
   
  ![Snake animation](https://github.com/pelegrino/pelegrino/blob/output/github-contribution-grid-snake.svg)
 </div><br/>

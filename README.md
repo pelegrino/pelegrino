@@ -21,12 +21,14 @@
 		<td align="center"><img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
 		<td align="center"><img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
 		<td align="center"><img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
+	</tr>
+	<tr>	
 		<td align="center"><img align="center" alt="java" src="https://img.shields.io/badge/Java-F01A30?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
 		<td align="center"><img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-1572B6?style=for-the-badge&logo=kotlin&logoColor=white"/></td>
-	</tr>
-	<tr>
 		<td align="center"><img align="center"align="center" alt="Spring" src="https://img.shields.io/badge/Spring-008000?style=for-the-badge&logo=Spring&logoColor=white"/></td>
 		<td align="center"><img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-F5FFFA?style=for-the-badge&logo=mysql&logoColor=black"/></td> 	
+	</tr>
+	<tr>	
 		<td align="center"><img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></td>
 		<td align="center"><img align="center" alt="linux" src="https://img.shields.io/badge/Linux-DAA520?style=for-the-badge&logo=linux&logoColor=white"/></td>
 		<td align="center"><img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-0000CD?style=for-the-badge&logo=eclipse&logoColor=white"/></td>

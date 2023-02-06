@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Eu sou o Pelegrino! Um apaixonado por tecnologia...</h2>
+<h1 align="center">Olá! Eu sou o Pelegrino! Um apaixonado por tecnologia...</h1>
 <div><a href="https://github.com/pelegrino"><img align="center" alt="capa" width="100%" src="https://idocode.com.br/wp-content/uploads/2020/05/0-destaque-linguagens-de-programacao-2019.jpg.webp"/></div><br/>
 
   <h2 align="center">Minhas Redes</h2>  

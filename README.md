@@ -50,5 +50,4 @@
 </tr>
 </table> 
 </div><br/>
-![Snake animation](https://github.com/pelegrino/pelegrino/blob/output/github-contribution-grid-snake.svg)
-<br/>
+<div>![Snake animation](https://github.com/pelegrino/pelegrino/blob/output/github-contribution-grid-snake.svg)</div><br/>

@@ -16,6 +16,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelegrino&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+  ![Snake animation](https://github.com/pelegrino/pelegrino/blob/output/github-contribution-grid-snake.svg)
+  
+  <br/>
 
 <h2 align="center"> Tecnologias que estou me dedicando...</h2>
 
@@ -50,4 +54,3 @@
 </tr>
 </table> 
 </div><br/>
-<div>![Snake](https://github.com/pelegrino/pelegrino/blob/output/github-contribution-grid-snake.svg)</div><br/>

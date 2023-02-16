@@ -9,7 +9,13 @@
 <td align="center"><a href="https://www.linkedin.com/in/pelegrino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></td>
 <td align="center"><a href="https://t.me/pelegrino"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </div><br/></td>
-</table> 
+</table>
+  
+<div>
+<a href="https://github.com/pelegrino">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelegrino&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <h2 align="center"> Tecnologias que estou me dedicando...</h2>
 
@@ -45,3 +51,4 @@
 </table> 
 </div><br/>
 ![Snake animation](https://github.com/pelegrino/pelegrino/blob/output/github-contribution-grid-snake.svg)
+<br/>

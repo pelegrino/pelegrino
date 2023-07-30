@@ -17,11 +17,13 @@
 <img height="180em" src="https://github-readme-stats-pelegrino.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<br/>
+
 <div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pelegrino/pelegrino/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/pelegrino/pelegrino/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/pelegrino/pelegrino/blob/output/github-snake.svg" />
+  <img src="https://github.com/pelegrino/pelegrino/blob/output/github-snake.svg" />
 </picture>
 </div>
   

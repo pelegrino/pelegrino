@@ -44,7 +44,6 @@
 <td>Frameworks</td>
 <td><img align="center" alt="bootstrap" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></td>
 <td><img align="center" alt="spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></td>
-<td><img align="center" alt="spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
 </tr>
 <tr>
 <td>Mobile</td>

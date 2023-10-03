@@ -39,6 +39,7 @@
 <td>Back End</td>
 <td><img align="center" alt="java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></td>
 <td><img align="center" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></td>
+<td><img align="center" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /></td>
 </tr>
 <tr>
 <td>Frameworks</td>

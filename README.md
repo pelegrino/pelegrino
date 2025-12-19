@@ -53,7 +53,8 @@
 <tr>
 <td>Banco de Dados</td>
 <td><img align="center" alt="mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></td>
-<td><img align="center" alt="postresql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></td>	
+<td><img align="center" alt="postresql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></td>
+<td><img align="center" alt="neo4j" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" /></td>	
 </tr>
 </table> 
 </div><br/>

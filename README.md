@@ -17,9 +17,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
-
-
-  <br/>
   
   ![Snake animation](https://github.com/pelegrino/pelegrino/blob/output/github-contribution-grid-snake-dark.svg)
   

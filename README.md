@@ -11,17 +11,16 @@
 </div><br/></td>
 </table>
 
-<table align="center" cellspacing="0" cellpadding="0">
+<table align="center">
   <tr>
-    <td style="padding-right: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <td>
+      <img src="https://grs-pelegrino.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelegrino&layout=compact&langs_count=7&theme=dracula"/>
+      <img src="https://grs-pelegrino.vercel.app/api/top-langs/?username=pelegrino&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400"/>
     </td>
   </tr>
 </table>
-
   
   ![Snake animation](https://github.com/pelegrino/pelegrino/blob/output/github-contribution-grid-snake-dark.svg)
   

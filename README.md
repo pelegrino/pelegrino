@@ -14,14 +14,14 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://grs-pelegrino.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&card_width=420&cache_seconds=86400"/>
+      <img src="https://grs-pelegrino.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&card_width=420&hide_border=true&cache_seconds=86400"/>
     </td>
     <td>
-      <img src="https://grs-pelegrino.vercel.app/api/top-langs/?username=pelegrino&layout=default&langs_count=7&theme=dracula&hide_border=true&card_width=420&cache_seconds=86400"/>
+      <img src="https://grs-pelegrino.vercel.app/api/top-langs/?username=pelegrino&layout=compact&langs_count=8&theme=dracula&card_width=420&hide_border=true&cache_seconds=86400"/>
     </td>
   </tr>
 </table>
-  
+
   ![Snake animation](https://github.com/pelegrino/pelegrino/blob/output/github-contribution-grid-snake-dark.svg)
   
   <br/>

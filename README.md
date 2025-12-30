@@ -11,16 +11,10 @@
 </div><br/></td>
 </table>
 
-<table align="center">
-  <tr>
-    <td style="height: 200px; vertical-align: middle;">
-      <img src="https://grs-pelegrino.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-    </td>
-    <td style="height: 280px; vertical-align: middle;">
-      <img src="https://grs-pelegrino.vercel.app/api/top-langs/?username=pelegrino&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://grs-pelegrino.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula"/>
+  <img src="https://grs-pelegrino.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&custom_title=Top+Languages"/>
+</p>
 
   ![Snake animation](https://github.com/pelegrino/pelegrino/blob/output/github-contribution-grid-snake-dark.svg)
   

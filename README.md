@@ -10,11 +10,17 @@
 <td align="center"><a href="https://t.me/pelegrino"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </div><br/></td>
 </table>
-  
-<div>
+
+<div align="center">
   <a href="https://github.com/pelegrino">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelegrino&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img
+      height="165em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelegrino&layout=compact&langs_count=7&theme=dracula"
+    />
+    <img
+      height="165em"
+      src="https://github-readme-stats.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
   </a>
 </div>
   

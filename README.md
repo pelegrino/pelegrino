@@ -12,8 +12,8 @@
 </table>
 
 <p align="center">
-  <img src="https://grs-pelegrino.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula"/>
-  <img src="https://grs-pelegrino.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&custom_title=Top+Languages"/>
+  <img src="https://grs-pelegrino.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&hide_border=true"/>
+  <img src="https://grs-pelegrino.vercel.app/api/top-langs/?username=pelegrino&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
 </p>
 
   ![Snake animation](https://github.com/pelegrino/pelegrino/blob/output/github-contribution-grid-snake-dark.svg)

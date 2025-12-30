@@ -16,7 +16,7 @@
     <td style="height: 200px; vertical-align: middle;">
       <img src="https://grs-pelegrino.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
     </td>
-    <td style="height: 220px; vertical-align: middle;">
+    <td style="height: 240px; vertical-align: middle;">
       <img src="https://grs-pelegrino.vercel.app/api/top-langs/?username=pelegrino&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400"/>
     </td>
   </tr>

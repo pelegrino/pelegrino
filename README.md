@@ -14,7 +14,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://grs-pelegrino.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img src="https://grs-pelegrino.vercel.app/api?username=pelegrino&show_icons=true&theme=dracula&count_private=true"/>
     </td>
     <td>
       <img src="https://grs-pelegrino.vercel.app/api/top-langs/?username=pelegrino&layout=compact&langs_count=7&theme=dracula"/>

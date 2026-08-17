@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-  ![Snake animation](https://raw.githubusercontent.com/pelegrino/pelegrino/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/pelegrino/pelegrino/blob/output/github-contribution-grid-snake-dark.svg)
   
   <br/>
 
